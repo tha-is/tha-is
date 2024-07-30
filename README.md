@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px"/>
           
-![snake gif](https://github.com/tha-is/tha-is/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/tha-is/tha-is/blob/output/github-contribution-grid-snake2.svg)
 </div>
 <!---
 tha-is/tha-is is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
