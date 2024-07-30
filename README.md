@@ -1,9 +1,34 @@
-# Oii, eu sou a Thais.
-- 👀 I’m interested in Front End learning.
-- 🌱 I’m currently learning CSS...
-- 💞️ I’m looking to collaborate just on my learning right now. Also I have big plans for the future like collaborate with a company to improve my skills.
-- 📫 You can reach me on my instagram <a href="https://www.instagram.com/_thaisco/">_thaisco</a> or at my profile on <a href="https://www.linkedin.com/in/thais-costa-39107b195/">Linkedin</a>.
+<h2>Oii, eu sou a Thais.</h2>
 
+<ul>
+  <li>
+    Trabalhando com SQL, Power BI e Excel.
+  </li>
+  <li> Estudando JavaScript e melhorias no desempenho e organização do CSS.
+  </li>
+</ul>
+
+<h4>Encontre-me:</h4>
+<a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<hr>
+<div align="center">
+  <a href="https://thais.bymartins.eti.br/">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=tha-is&show_icons=true&hide=contribs,prs&theme=synthwave&include_all_commits&hide_border=true&bg_color=302c2c&text_color=809dbf&hide_rank=true&hide_title=true&icon_color=809dbf"></a>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tha-is&layout=compact&bg_color=302c2c&hide_border=true&text_color=809dbf&title_color=95a4b8&hide_title=true">
+</div>
+<br>
+<div align="center" display="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30px"/>
+          
+                          
+</div>
 <!---
 tha-is/tha-is is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
