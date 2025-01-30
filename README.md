@@ -6,6 +6,8 @@
   </li>
   <li> Estudando JavaScript e melhorias no desempenho e organização do CSS.
   </li>
+  <li> Acompanhe meu roadmap: link em breve
+  </li>
 </ul>
 
 <h4>Encontre-me:</h4>
