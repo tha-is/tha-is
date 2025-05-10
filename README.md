@@ -17,7 +17,6 @@
 
 <hr>
 <div align="center">
-  <a href="https://thais.bymartins.eti.br/">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=tha-is&show_icons=true&hide=contribs,prs&theme=synthwave&include_all_commits&hide_border=true&bg_color=302c2c&text_color=809dbf&hide_rank=true&hide_title=true&icon_color=809dbf"></a>
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tha-is&layout=compact&bg_color=302c2c&hide_border=true&text_color=809dbf&title_color=95a4b8&hide_title=true">
 </div>
