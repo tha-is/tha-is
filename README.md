@@ -2,11 +2,11 @@
 
 <ul>
   <li>
-    Trabalhando com SQL, Power BI e Excel.
+    Trabalhando com SQL, Python, Power BI e Excel.
   </li>
-  <li> Estudando JavaScript e melhorias no desempenho e organização do CSS.
+  <li> Estudando JavaScript, React e RPA.
   </li>
-  <li> Acompanhe meu roadmap: link em breve
+  <li> Acompanhe meu roadmap: <a href="https://roadmap.sh/u/tha1s" target="_blank">Frontend Developer</a>
   </li>
 </ul>
 
