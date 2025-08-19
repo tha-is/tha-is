@@ -2,7 +2,7 @@
 
 <ul>
   <li>
-    Trabalhando com SQL, Python, Power BI e Excel.
+    Experiencia com SQL, Python, Power BI e Excel.
   </li>
   <li> Estudando JavaScript, React e RPA.
   </li>
