@@ -1,19 +1,16 @@
 <h2>Oii, eu sou a Thais.</h2>
 
-<ul>
-  <li>
-    Experiencia com SQL, Python, Power BI e Excel.
-  </li>
-  <li> Estudando JavaScript, React e RPA.
-  </li>
-  <li> Acompanhe meu roadmap: <a href="https://roadmap.sh/u/tha1s" target="_blank">Frontend Developer</a>
-  </li>
-</ul>
+✅ Experiência +4 anos com analise de dados (SQL para analise e construção de indicadores, bibliotecas Python para modelos estatísticos e automação, Tableu, Power BI, Power Query, Dax, linguagem M, Power Automate, Power Pivot, Excel, Google Sheets....)  
+
+📚 Pós graduanda em Inteligencia Artificial e Aprendizado de Máquina (AI & Machine Learning) pela PUC Minas com previsão de formação em 12/2026.
+
+💬 Acompanhe meus roadmaps: <br> 
+    - <a href="https://roadmap.sh/u/tha1s" target="_blank">Frontend Developer</a>
+    - <a href="https://roadmap.sh/u/tha1s" target="_blank">Data Analyst</a>
 
 <h4>Encontre-me:</h4>
-<a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:thscostav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/thais-costa-39107b195/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <hr>
 <div align="center">
