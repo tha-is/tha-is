@@ -1,19 +1,10 @@
 <h1 align="left">Thais Costa</h1>
 
-<p align="center">
-Front-end Developer em transição de carreira <br/>
-+4 anos de experiência em Análise de Dados e Business Intelligence
-</p>
-
----
-
-### Sobre
-
 Desenvolvedora focada em React e JavaScript, construindo aplicações web modernas com base sólida em lógica, dados e arquitetura.
 
 Experiência profissional com SQL, Python e construção de indicadores estratégicos para tomada de decisão.
 
-Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina — PUC Minas (conclusão 12/2026).
+Pós-graduanda em Inteligência Artificial e Aprendizado de Máquina — PUC Minas (conclusão 12/2026).</p>
 
 ---
 
